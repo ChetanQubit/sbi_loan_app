@@ -51,7 +51,7 @@
 	<dependency>
 		<groupId>in.ashokit</groupId>
 		<artifactId>pwd-utils</artifactId>
-		<version>1.2</version>
+		<version>1.0</version>
 		<scope>runtime</scope>
 	</dependency>
 
